@@ -1,3 +1,3 @@
 <?php 
-	$pdo = new PDO('mysql:host=localhost;dbname=test', 'root');
+	$mysqli = new mysqli("localhost","humair234","humair2349","test");
 ?>
